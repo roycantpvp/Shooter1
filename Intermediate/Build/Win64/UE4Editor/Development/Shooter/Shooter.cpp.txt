@@ -1,0 +1,2 @@
+C:\Users\Owner\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\UE4Editor\Development\Shooter\Definitions.Shooter.h
+C:\Users\Owner\Documents\Unreal Projects\Shooter\Source\Shooter\Shooter.h
